@@ -35,7 +35,7 @@ body {
 }
 
 #contato {
-    scroll-margin-top: 120px; /* ajuste conforme a altura do seu header */
+  scroll-margin-top: 120px; /* ajuste conforme a altura do seu header */
 }
 
 h2.titulo {
@@ -973,6 +973,11 @@ footer .line-footer p a {
 
   .btn-social {
     text-align: center;
+    padding: 6px 10px; 
+    font-size: 14px; 
+    max-width: 120px; 
+    white-space: nowrap; 
+    margin-left: -8%;
   }
 
   /* TECNOLOGIAS */
