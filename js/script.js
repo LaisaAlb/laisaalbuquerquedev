@@ -65,15 +65,15 @@ function abrirProjeto(projeto) {
     // Dados dos projetos: imagem, vídeo, título, descrição
     const dados = {
         projeto1: {
-            videoSrc: "videos/apae.mp4",
+            imgSrc: "assets/apae.png",
             titulo: "APAE - LTD - UNIFAVIP 👶🏻",
             descricao: `APAE foi um projeto desenvolvido pelo alunos da UNIFAVIP WYDEN pelo LTD. <br> Neste projeto, desenvolvemos um programa voltado para auxiliar crianças com deficiência intelectual e múltipla, com objetivo delas conseguirem desenvolver suas interações sociais. <br> As funcionalidades do sistema consistem em fazer com a criança interagir  saiba pedir coisas básicas como 'estou com cede' e também tem jogos interativos para ajudar elas a desenvolverem suas habilidades cognitivas e lógicas. <br> As tecnologias utilizadas foram  <strong>HTML  ,CSS , JavaScript</strong> <br>
-            🔗Publicação no LinkedIn: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_unifavipwyden-ensinosuperior-laborataejriodetransformaaexaetodigital-activity-7329518032953798656-9HpT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">APAE</a><br>
+            🔗Publicação no LinkedIn e Video: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_unifavipwyden-ensinosuperior-laborataejriodetransformaaexaetodigital-activity-7329518032953798656-9HpT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">APAE</a><br>
             💻 GitHub do projeto: <a href="https://github.com/KelvinGuimaraes/Apae-V2.git" target="_blank">Apae-V2</a>`
         },
 
         projeto2: {
-            videoSrc: "videos/veiculos.mp4",
+            imgSrc: "assets/veiculos.png",
             titulo: "AUTODRIVE 🚗",
             descricao: `AUTODRIVE é uma aplicação Full Stack desenvolvida por mim, com foco em gerenciamento de veículos. A plataforma permite que cadastre, edite, exclua, liste, arquive e desarquive veículos. <br> Além da gestão de veículos, o sistema conta com autenticação completa, permitindo que o usuário se cadastre e realize login com validação de token. Todas as ações são acompanhadas por mensagens de retorno do sistema, garantindo uma experiência clara e orientada ao usuário. <br> <strong>Tecnologias Front-End</strong>: React 18+, React Router DOM, React Icons, Axios, CSS, JavaScript, TypeScript, Biblioteca react-toastify <br> <strong>Tecnologias Back-End</strong>: Node.js , Express.js, Prisma ORM, PostgreSQL, Dotenv, Cors, Bcrypt, JWT (autenticação) <br>
 
@@ -81,32 +81,32 @@ function abrirProjeto(projeto) {
             💻 GitHub Back-End: <a href="https://github.com/LaisaAlb/GerenciamentoDeVeiculosBack.git" target="_blank">AUTODRIVE</a>`
         },
         projeto3: {
-            videoSrc: "videos/spotify.mp4",
+            imgSrc: "assets/spotify.png",
             titulo: "SPOTIFY 🎶",
             descricao: `Este projeto representou uma oportunidade de consolidar ainda mais meus conhecimentos na ferramenta Figma. <br> Através dele, pude compreender com mais clareza como estruturar e organizar a criação e a prototipagem de telas de forma mais profissional. <br> Entre os principais aprendizados, destaco: <br> 🔄 Criação de interações entre as telas, <br> 🎯 Aplicação de efeitos visuais em bordas e elementos <br>🗂️ Organização eficiente de arquivos e camadas dentro do Figma <br> <br>
-            🔗Publicação no LinkedIn: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_uxdesign-uidesign-figma-activity-7330547869831139328-YKKe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">SPOTIFY</a><br>
+            🔗Publicação no LinkedIn e Video: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_uxdesign-uidesign-figma-activity-7330547869831139328-YKKe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">SPOTIFY</a><br>
             💻 Link do Figma: <a href="https://www.figma.com/design/Pnz6HeeAnIf2Ulb9lrNXwb/SPOTIFY?node-id=0-1&t=q0Qx7rcwrTBuITKi-1" target="_blank">SPOTIFY</a>`
         },
         projeto4: {
-            videoSrc: "videos/userPlataform.mp4",
+            imgSrc: "assets/userPlataform.png",
             titulo: "USER PLATAFORM 💳",
             descricao: `Com o intuito de aprimorar e expandir meus conhecimentos no framework Angular, desenvolvi o projeto User Plataform, onde permite que os usuários visualizem suas transações financeiras (créditos e débitos) e acessem seus dados pessoais, endereço e informações de contato. Suas principais funcionalidades <br> 🔹 Principais funcionalidades: <br> ✅ Página inicial com acesso a todas as funcionalidades <br> ✅ Visualização de transações bancárias (créditos e débitos)<br> ✅ Exibição de dados pessoais do usuário <br> ✅ Acesso a endereço e informações de contato E tecnologias  <br> 🔹 Tecnologias utilizadas: , 🟢 Angular v17 , 📌 TypeScript , 💻 HTML / SCSS 
-            🔗Publicação no LinkedIn: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_angular-frontend-desenvolvimentoweb-activity-7310323015567716354-JlQ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">User Plataform</a><br>
+            🔗Publicação no LinkedIn e Video: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_angular-frontend-desenvolvimentoweb-activity-7310323015567716354-JlQ0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">User Plataform</a><br>
             💻 GitHub do projeto: <a href="https://github.com/LaisaAlb/userPlataform.git" target="_blank">User Plataform</a>`
         },
         projeto5: {
-            videoSrc: "videos/reactiveForm.mp4",
+            imgSrc: "assets/reactiveForms.png",
             titulo: "REACTIVE FORMS 🗃️",
             descricao: `Com o objetivo de consolidar meus conhecimentos em Angular e TypeScript, desenvolvi esta aplicação focada na gestão de usuários e seus dependentes. 
             <br> Nela, é possível cadastrar, editar, excluir e listar usuários, com destaque para a forte tipagem e validação rigorosa dos dados, garantindo uma experiência de uso mais robusta e confiável. Um dos pontos fortes do sistema é a funcionalidade de edição, que proporciona uma interação completa e dinâmica com o usuário. <br> O principal aprendizado que obtive neste projeto foi a utilizar o TypeScript com a tipagem correta dos dados e estruturar/organizar bem os projetos <br>🛠️ Principais tecnologias utilizadas: Angular, TypeScript e SCSS.
-            🔗Publicação no LinkedIn: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_ol%C3%A1-usu%C3%A1rio-na-busca-para-aprimorar-activity-7303418448737411073-Z6V-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">Reactive Forms</a><br>
+            🔗Publicação no LinkedIn e Video: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_ol%C3%A1-usu%C3%A1rio-na-busca-para-aprimorar-activity-7303418448737411073-Z6V-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">Reactive Forms</a><br>
             💻 GitHub do projeto: <a href="https://github.com/LaisaAlb/project-reactive-form.git" target="_blank">Reactive Forms</a>`
         },
         projeto6: {
-            videoSrc: "videos/chamados.mp4",
+            imgSrc: "assets/chamados.png",
             titulo: "CHAMADOS ☎️",
             descricao: `Esta é uma aplicação desenvolvida em React com foco na visualização, gerenciamento e interação com chamados. O projeto utiliza o Firebase para gerenciamento de dados e é estruturado com componentes reutilizáveis em React, além da integração com o React Router para navegação entre as páginas. <br> Desenvolvi este projeto com o objetivo de consolidar meus conhecimentos em React e aprofundar meu entendimento sobre o funcionamento dessa biblioteca. <br> 🛠️ Principais funcionalidades: Exibição de chamados , Criação de novos chamados ,  Modal de detalhes, Carregamento assíncrono <br>
-            🔗Publicação no LinkedIn: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_angular-react-react-activity-7312880727086247936-KiuZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">Chamados</a><br>
+            🔗Publicação no LinkedIn e Video: <a href="https://www.linkedin.com/posts/la%C3%ADsa-albuquerque-777406271_angular-react-react-activity-7312880727086247936-KiuZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJyLMsBU20VWqy_XqCUEoy5TbDJ5qhu2Z8" target="_blank">Chamados</a><br>
             💻 GitHub do projeto: <a href="https://github.com/LaisaAlb/Chamados.git" target="_blank">Chamados</a>`
         }
     };
@@ -187,5 +187,3 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 });
-
-
