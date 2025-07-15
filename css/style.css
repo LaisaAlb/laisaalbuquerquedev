@@ -682,6 +682,10 @@ form .btn-enviar input {
   transition: 0.2s;
 }
 
+form ::placeholder{
+  color: rgb(196, 195, 195);
+}
+
 /* ESTILO DO RODAPÉ */
 
 footer {
