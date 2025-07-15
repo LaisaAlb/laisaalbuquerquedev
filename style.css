@@ -611,6 +611,32 @@ section.portfolio .flex {
 }
 
 /* ESTILO DO FORMULÁRIO DE CONTATO */
+.contato-flex {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.mensagem-contato {
+  flex: 1;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.6;
+  background-color: #08083e;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px #00000055;
+  max-width: 600px;
+}
+
+form {
+  flex: 1;
+  max-width: 500px;
+}
+
 section.formulario {
   padding: 80px 4%;
 }
@@ -622,7 +648,7 @@ form {
   justify-content: center;
   flex-direction: column;
   gap: 10px;
-  margin-top: 40px;
+  margin-top: 5px;
 }
 
 form input,
@@ -660,7 +686,7 @@ form .btn-enviar input {
 
 footer {
   padding: 40px 4%;
-  box-shadow: 0 0 40px 10px #0a0a4a;
+  box-shadow: 0 0 40px 10px #030030;
 }
 
 footer .flex {
@@ -971,16 +997,7 @@ footer .line-footer p a {
     text-align: justify;
   }
 
-  .txt-sobre .btn-social {
-    text-align: center;
-    padding: 6px 10px; 
-    font-size: 14px; 
-    max-width: 120px; 
-    white-space: nowrap; 
-    margin-left: -8%;
-  }
-
-  .btn-social{
+  .btn-social {
     text-align: center;
   }
 
@@ -1040,6 +1057,17 @@ footer .line-footer p a {
 
   .conteudo-banner {
     margin-top: 100px;
+  }
+
+  /* FOMRS */
+  .contato-flex {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  form input{
+    width: 350px;
   }
 
   /* FOOTER */
