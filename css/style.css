@@ -610,6 +610,21 @@ section.portfolio .flex {
   margin-top: 50px;
 }
 
+.texto-banner a {
+  color: #00e0ff; 
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.texto-banner a:hover {
+  color: #c800ff; 
+}
+
+.texto-banner a:visited {
+  color: #c800ff; 
+}
+
+
 /* ESTILO DO FORMULÁRIO DE CONTATO */
 .contato-flex {
   display: flex;
